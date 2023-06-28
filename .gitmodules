@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "surveybootstrap"]
 	path = surveybootstrap
 	url = https://github.com/dfeehan/surveybootstrap
-	shallow = true
-	registered = true
